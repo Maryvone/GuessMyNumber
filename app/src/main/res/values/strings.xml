@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessMyNumber</string>
+    <string name="strGreater">Veuillez saisir une valeur plus grande</string>
+    <string name="strLower">Veuillez saisir une valeur plus petite</string>
+    <string name="strCongratulations">Félicitations</string>
+    <string name="strMessage">Félicitations, vous avez trouvé en %d coups. Voulez-vous rejouer?</string>
+    <string name="StrYes">Oui</string>
+    <string name="strNo">Non</string>
+</resources>
